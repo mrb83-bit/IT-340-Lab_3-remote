@@ -1,0 +1,31 @@
+commit bf162c4d233139e80c218417d0c1da9cd4108830
+Author: Marlon Belton Jr <mrb83@njit.edu>
+Date:   Thu Sep 25 13:54:00 2025 -0400
+
+    Revert "Added new text file with sample text"
+    
+    This reverts commit 5a17b55c78df055e247da5ef30101452c416863f.
+
+commit 5a17b55c78df055e247da5ef30101452c416863f
+Author: Marlon Belton Jr <mrb83@njit.edu>
+Date:   Thu Sep 25 13:51:08 2025 -0400
+
+    Added new text file with sample text
+
+commit 6285b457a3d5ccc0fadfd85e3fc9a7adc3bc4535
+Author: Marlon Belton Jr <mrb83@njit.edu>
+Date:   Thu Sep 25 13:50:03 2025 -0400
+
+    Added custom comment to hostname file
+
+commit 6d41a36d454e4667263396918976a945960e5d50
+Author: Marlon Belton Jr <mrb83@njit.edu>
+Date:   Thu Sep 18 12:24:00 2025 -0400
+
+    Initial Release
+
+commit 44e9faf3dd8f8edf5b7b82cd79cc148324f6fb39
+Author: Marlon Belton Jr <mrb83@njit.edu>
+Date:   Thu Sep 18 12:19:06 2025 -0400
+
+    Initial Commit
